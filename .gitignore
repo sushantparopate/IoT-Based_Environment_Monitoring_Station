@@ -1,0 +1,20 @@
+# Secrets — never commit real credentials
+secrets.h
+
+# Arduino IDE
+*.hex
+*.elf
+*.bin
+*.map
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
